@@ -1,0 +1,9 @@
+OBJECT LeftPlate
+  MESHFILE plate.msh
+  DISPLACED 0 -0.5 0
+ENDOBJECT
+
+OBJECT RightPlate
+  MESHFILE plate1.msh
+  DISPLACED 0 0.5 0
+ENDOBJECT
